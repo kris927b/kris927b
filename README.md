@@ -4,6 +4,30 @@ My name is Kristian. I am a master student studying Computer Science at the IT U
 
 I am working as a Research Assistant working with Natural Language processing 👨‍💻
 
+#### Languages
+
+<a href="https://www.python.org/">
+  <img
+    alt="Python"
+    height="80"
+    width="80"
+    src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
+</a>
+<a href="https://www.javascript.com/">
+  <img
+    alt="JavaScript"
+    height="80"
+    width="80"
+    src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
+</a>
+
+---
+<a>
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=kris927b&hide=contribs&show_icons=true&theme=light" />
+</a>
+
 <!--
 **kris927b/kris927b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
