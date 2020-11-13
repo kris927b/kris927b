@@ -6,20 +6,29 @@ I am working as a Research Assistant working with Natural Language processing ðŸ
 
 #### Languages
 
-<a href="https://www.python.org/">
-  <img
-    alt="Python"
-    height="80"
-    width="80"
-    src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
-</a>
-<a href="https://www.javascript.com/">
-  <img
-    alt="JavaScript"
-    height="80"
-    width="80"
-    src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
-</a>
+<div>
+  <a href="https://www.python.org/">
+    <img
+      alt="Python"
+      height="80"
+      width="80"
+      src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
+  </a>
+  <a href="https://www.javascript.com/">
+    <img
+      alt="JavaScript"
+      height="80"
+      width="80"
+      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
+  </a>
+  <a href="https://www.scala-lang.org/">
+    <img
+      alt="Scala"
+      height="80"
+      width="80"
+      src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original.svg" />
+  </a>
+</div>
 
 ---
 <a>
