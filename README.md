@@ -12,7 +12,7 @@ I am working as a Research Assistant working with Natural Language processing ðŸ
       alt="Python"
       height="80"
       width="80"
-      src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </a>
   <a href="https://www.javascript.com/">
     <img
