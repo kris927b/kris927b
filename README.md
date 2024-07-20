@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is Kristian. I am a master student studying Computer Science at the IT University of Copenhagen (itu.dk) with a data science specialization. 
-
-I am working as a Research Assistant working with Natural Language processing 👨‍💻
+My name is Kristian. I am a Data Scientist working at Crediwire. 👨‍💻
 
 #### Languages
 
