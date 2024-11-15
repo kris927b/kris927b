@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-My name is Kristian. I am a Data Scientist working at Crediwire. 👨‍💻
+My name is Kristian. I am an AI Specialist working at Alexandra Instituttet in Copenhagen. 👨‍💻
+
+I am specialised in generating value from Natural Language Processing (NLP) and AI in general. 
+
+I hold a Master in Computer Science with a specialisation in Data Science. 
 
 #### Languages
 
