@@ -23,12 +23,12 @@ I hold a Master in Computer Science with a specialisation in Data Science.
       width="80"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </a>
-  <a href="https://www.scala-lang.org/">
+  <a href="https://www.rust-lang.org/">
     <img
-      alt="Scala"
+      alt="Rust"
       height="80"
       width="80"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
   </a>
 </div>
 
